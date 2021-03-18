@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Datos_Casa.cs" />
+    <Compile Include="datos_en _conjunto.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
