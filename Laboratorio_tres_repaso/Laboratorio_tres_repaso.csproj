@@ -82,5 +82,10 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Datos_casa.txt" />
+    <Content Include="Datos_en_Conjunto.txt" />
+    <Content Include="Datos_propietario.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
